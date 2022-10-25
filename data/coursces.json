@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "category_id": "01",
+    "total_lecture": "29 Lectures",
+    "price": 854000,
+    "title": "Data Science and Machine Learning with Python - Hands On!",
+    "author": {
+      "name": "Pamela Foster",
+      "img": "https://htmldemo.net/edule/eduLe/assets/images/author/author-01.jpg"
+    },
+    "image_url": "https://htmldemo.net/edule/eduLe/assets/images/courses/courses-01.jpg",
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "details": "Here learn How to html work in browser"
+  },
+
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "category_id": "01",
+    "total_lecture": "20 Lectures",
+    "price": 54000,
+    "title": "Create Amazing Color Schemes for Your UX Design Projects",
+    "author": {
+      "name": "Pamela Foster",
+      "img": "https://htmldemo.net/edule/eduLe/assets/images/author/author-02.jpg"
+    },
+    "image_url": "https://htmldemo.net/edule/eduLe/assets/images/courses/courses-02.jpg",
+    "thumbnail_url": "https://htmldemo.net/edule/eduLe/assets/images/courses/courses-02.jpg",
+    "details": "Here learn How to html work in browser"
+  },
+
+  {
+    "_id": "f037cd9484cecaea37ca71011",
+    "category_id": "02",
+    "total_lecture": "40 Lectures",
+    "price": 92000,
+    "title": "Culture & Leadership: Strategies for a Successful Business",
+    "author": {
+      "name": "Rose Simmons",
+      "img": "https://htmldemo.net/edule/eduLe/assets/images/author/author-03.jpg"
+    },
+    "image_url": "https://htmldemo.net/edule/eduLe/assets/images/courses/courses-05.jpg",
+    "thumbnail_url": "https://htmldemo.net/edule/eduLe/assets/images/courses/courses-05.jpg",
+    "details": "Here learn How to html work in browser"
+  },
+
+  {
+    "_id": "f037cd9484cecaea37ca71011",
+    "category_id": "02",
+    "total_lecture": "10 Lectures",
+    "price": 24400,
+    "title": "Finance Series: Learn to Budget and Calculate your Net Worth.",
+    "author": {
+      "name": "Rose Simmons",
+      "img": "https://htmldemo.net/edule/eduLe/assets/images/author/author-04.jpg"
+    },
+    "image_url": "https://htmldemo.net/edule/eduLe/assets/images/courses/courses-04.jpg",
+    "thumbnail_url": "https://htmldemo.net/edule/eduLe/assets/images/courses/courses-04.jpg",
+    "details": "Here learn How to html work in browser"
+  },
+
+  {
+    "_id": "84cecaea37ca71011",
+    "category_id": "03",
+    "total_lecture": "25 Lectures",
+    "price": 233000,
+    "title": "Create Amazing Color Schemes for Your UX Design Projects",
+    "author": {
+      "name": "Rose Simmons",
+      "img": "https://htmldemo.net/edule/eduLe/assets/images/author/author-06.jpg"
+    },
+    "image_url": "https://htmldemo.net/edule/eduLe/assets/images/courses/courses-06.jpg",
+    "thumbnail_url": "https://htmldemo.net/edule/eduLe/assets/images/courses/courses-06.jpg",
+    "details": "Here learn How to html work in browser"
+  },
+
+  {
+    "_id": "84cecaea3437ca71011",
+    "category_id": "03",
+    "total_lecture": "35 Lectures",
+    "price": 233000,
+    "title": "Graphic Design: Illustrating Badges and Icons with Geometric Shapes",
+    "author": {
+      "name": "Rose Simmons",
+      "img": "https://htmldemo.net/edule/eduLe/assets/images/author/author-05.jpg"
+    },
+    "image_url": "https://htmldemo.net/edule/eduLe/assets/images/courses/courses-05.jpg",
+    "thumbnail_url": "https://htmldemo.net/edule/eduLe/assets/images/courses/courses-05.jpg",
+    "details": "Here learn How to html work in browser"
+  }
+
+]
