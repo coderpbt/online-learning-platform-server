@@ -4,7 +4,7 @@ const port = process.env.PORT || 5000;
 const cors = require('cors')
 
 const categoris = require('./data/categories.json')
-const news = require('./data/coursces.json')
+const courses = require('./data/coursces.json')
 
 app.use(cors())
 
@@ -16,21 +16,21 @@ app.get('/categoris', (req,res) => {
 app.get('/categorisid/:id', (req, res) =>{
   const id = req.params.id;
   if (id === '08') {
-    res.send(news)
+    res.send(courses)
   }else{
-    const categoriNews = news.filter(x => x.category_id === id)
+    const categoriNews = courses.filter(x => x.category_id === id)
     res.send(categoriNews)
   }
 })
 
-app.get('/news', (req,res) => {
-  res.send(news)
+app.get('/courses', (req,res) => {
+  res.send(courses)
 })
 
-app.get('/news/:id', (req, res) => {
+app.get('/courses/:id', (req, res) => {
   const id = req.params.id;
-  const selectedNews = news.find(n => n._id === id)
-  res.send(selectedNews)
+  const selectedCourses = courses.find(n => n._id === id)
+  res.send(selectedCourses)
 })
 
 app.listen(port, () => {
