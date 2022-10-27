@@ -15,12 +15,8 @@ app.get('/categoris', (req,res) => {
 
 app.get('/categorisid/:id', (req, res) =>{
   const id = req.params.id;
-  if (id === '08') {
-    res.send(courses)
-  }else{
     const categoriNews = courses.filter(x => x.category_id === id)
     res.send(categoriNews)
-  }
 })
 
 app.get('/courses', (req,res) => {
