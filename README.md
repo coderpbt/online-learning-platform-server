@@ -1,6 +1,6 @@
 # information technology Edule Server
 
 # This is information technology Edule Edlue learning course server. 
-# I will make API using This Server.
+# I am using this server side to make API for client-side 
 
 
